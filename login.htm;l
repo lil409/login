@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome Page | Website &copy All Rights Reserved</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1 class="heading1">Website.com</h1>  <h1 class="heading2">Explore Your Extensive Dreams!</h1>
+  <div class="intro">
+    <h2>Welcome To Our Platform</h2>
+    <p>Lorem ipsum dolor sit amet,
+       consectetur adipisicing elit. 
+       Quisquam eveniet quo excepturi amet magni maiores architecto ut ex,
+        placeat quas nulla voluptatibus cumque deserunt,
+         officiis magnam explicabo odio. Ea, iure?
+           Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Tenetur, sed? Voluptatem autem perferendis iste fugit? Voluptatem,
+             vero! Vero libero ad accusamus modi ullam quae dolore debitis nihil,
+              inventore obcaecati aut.  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+               Amet dolor in illum nemo doloremque est asperiores, ad iste commodi laboriosam praesentium,
+                soluta distinctio eum enim nostrum optio debitis alias libero?
+                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                  Dolor expedita tenetur ipsa quos, nemo ducimus suscipit quas odio voluptatum eos eius nobis sit,
+                   natus illum, doloribus voluptates laboriosam aliquam aliquid?<br><br><a href="#container" class="intro-link">Explore More About Your Dreams!</a></p>
+  </div>
+  <video src="Yvan_Buravan___BigTime_(Official_Video)(240p).mp4" autoplay loop muted>Body backgroun-like Video</video>
+  <a href="#container" class="login-link">Continue To Login!</a>
+  <div class="container" id="container">
+    <h1>All You need Is Here:</h1><br><br>
+<form action="">
+  <h2>Login here:</h2>
+  <input type="text" name="" id="" placeholder="Enter you Name:" required><br>
+  <input type="password" name="" id="" placeholder="Enter you password:" required><br>
+  <button type="submit">Login now</button>
+</form>
+</div>
+</body>
+<footer>
+  <h3>&copy;2025 WEbsite All rights Reserved.</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <aside>Accessible links: <a href="#container" class="footer-link">Login Form</a></aside>
+</footer>
+</html>
